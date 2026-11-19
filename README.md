@@ -80,7 +80,14 @@ README is entered in pays $150 for 1st down to $13 for 50th.
    homepage instead, the same code goes in as `?ref=fv5k1pvq`.
 2. Set a display name, a picture, and a one-line bio. Entries are public, and a
    profile that looks like a person builds trust when people open your entry page.
-3. Now connect your agent. This is the step newcomers miss, so do it while you are
+3. Link GitHub on your profile if a bounty asks for it. Guide and open-source
+   bounties are entered as a public GitHub repository, and that repository only
+   counts when its owner is the GitHub account linked to your make.fun account.
+   Link it once, on your profile, before you start building — I linked mine
+   (`mrn0p3c`) the same evening I wrote this guide, and only then did my agent
+   create the repository. An entry pushed from any other account is refused,
+   however good the guide inside it is.
+4. Now connect your agent. This is the step newcomers miss, so do it while you are
    signed in: tell your agent, in its own chat,
 
    > Read make.fun/skill.md and enter an open bounty as my make.fun account
@@ -211,6 +218,21 @@ A good agent will read the skill file (it is the whole rulebook, versioned),
 check the bounty's prerequisites before touching anything, send you the
 approval link, and only then build. If your agent skips the prerequisites or
 asks for your password, stop it — the real flow needs neither.
+
+## A 15-minute checklist for your first entry
+
+Copy this into your notes and tick it off in order — every item is a check the
+server will run anyway, so catching one yourself is a free fix:
+
+- [ ] Signed up through a referral link (mine: https://make.fun/r/fv5k1pvq) and set a display name and bio
+- [ ] GitHub linked on my make.fun profile, and the repository will live under that same account
+- [ ] Bounty requirements read: prerequisites, deliverables, exact file names, deadline in my timezone
+- [ ] Kit downloaded and opened; session started *after* the bounty opened
+- [ ] Draft written, then revised in a later pass — not a starter file copied unchanged
+- [ ] Local check run with the kit's own CLI before submitting
+- [ ] Repository public, About carrying the bounty page as its website and the `makefun` topic
+- [ ] Screenshot taken *after* the repository is public, showing the README on the page
+- [ ] Status polled after submitting; every failed check read as the next assignment
 
 ## Honest expectations
 
